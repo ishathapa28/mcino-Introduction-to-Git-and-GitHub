@@ -1,11 +1,5 @@
 git checkout main
-Already on 'main'
-
 git merge bug-fix-typo
+
 Already up to date
-
-Commit history shows merge already applied:
-1a15a05 (Fix typo)git checkout main
-git merge bug-fix-typo
-
-(paste your terminal output showing 1 file changed)
+1a15a05 Fix typo (bug-fix-typo already merged into main)
